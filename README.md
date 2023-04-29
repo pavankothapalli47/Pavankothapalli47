@@ -1,4 +1,4 @@
-![logo](https://github.com/pavankothapalli47/pavankothapalli47/blob/main/Banner%20Pavankothapalli.png)
+![logo](https://github.com/pavankothapalli47/pavankothapalli47/blob/main/Banner%20Pavankothapalli%20(main).png)
 <h1 align="center">Hi 👋, I'm PavanKothapalli</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
