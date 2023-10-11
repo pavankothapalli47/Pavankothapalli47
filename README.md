@@ -1,7 +1,7 @@
 ![logo](https://github.com/pavankothapalli47/pavankothapalli47/blob/main/Banner%20PavanKothapalli.png)
 
  <h1 align="center">Hi 👋, I'm PavanKothapalli</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankothapalli47&label=Profile%20views&color=0e75b6&style=flat" alt="pavankothapalli47" /> </p>
